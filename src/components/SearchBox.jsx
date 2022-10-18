@@ -8,7 +8,7 @@ function SearchBox({ searchChange }) {
         type="search"
         placeholder="Search Robots"
         onChange={searchChange}
-        style={{ borderRadius: "15px", width: "400px" }}
+        style={{ borderRadius: "15px", width: "300px" }}
       ></input>
     </div>
   );
